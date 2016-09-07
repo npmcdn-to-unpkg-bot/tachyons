@@ -44,5 +44,31 @@
     "build:css": "tachyons src/tachyons.css > css/tachyons.css",
     "build:minify": "tachyons src/tachyons.css -m > css/tachyons.min.css",
     "build:watch": "watch 'npm run build' ./src/"
+  },
+  "dependencies": {
+    "tachyons-border-colors": "^4.1.4",
+    "tachyons-border-radius": "^5.0.1",
+    "tachyons-border-widths": "^3.0.1",
+    "tachyons-borders": "^3.0.1",
+    "tachyons-box-sizing": "^3.1.7",
+    "tachyons-clears": "^3.0.1",
+    "tachyons-display": "^5.0.1",
+    "tachyons-floats": "^3.0.1",
+    "tachyons-font-weight": "^5.0.1",
+    "tachyons-heights": "^6.0.1",
+    "tachyons-hovers": "^2.4.1",
+    "tachyons-letter-spacing": "^3.0.1",
+    "tachyons-line-height": "^3.0.1",
+    "tachyons-links": "^3.0.6",
+    "tachyons-max-widths": "^4.0.1",
+    "tachyons-skins": "^3.2.5",
+    "tachyons-spacing": "^6.0.1",
+    "tachyons-text-align": "^3.0.1",
+    "tachyons-text-transform": "^4.0.1",
+    "tachyons-type-scale": "^6.0.1",
+    "tachyons-typography": "^3.0.1",
+    "tachyons-utilities": "^1.2.6",
+    "tachyons-vertical-align": "^4.0.1",
+    "tachyons-widths": "^5.0.1"
   }
 }
